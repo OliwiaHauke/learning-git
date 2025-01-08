@@ -12,3 +12,4 @@ shopping_items = [
 for name, price in shopping_items:
   shopping_list = f"Ser {name}: cena {price:.2f} zł/kg"
   print(shopping_list)
+print("koteczki")
